@@ -1,0 +1,17 @@
+{
+  "name": "Vessel Packaging Studio",
+  "short_name": "Vessel",
+  "description": "Premium custom restaurant packaging for printed boxes, cups and carry bags.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080806",
+  "theme_color": "#080806",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
