@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import type { Viewport } from "next";
+import { FirebaseAnalytics } from "@/components/firebase-analytics";
 import { getCanonicalUrl, siteConfig } from "@/lib/seo";
 import "./globals.css";
 
@@ -74,7 +75,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        {children}
+        <FirebaseAnalytics />
+      </body>
     </html>
   );
 }
