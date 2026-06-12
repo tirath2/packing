@@ -13,12 +13,9 @@ import {
 
 const FORM_ENDPOINT = `https://formsubmit.co/ajax/${contactEmail}`;
 
-const heroImage =
-  "https://lh3.googleusercontent.com/aida/AP1WRLtybSRdWK9Huzn9G9oTSCCks0L5ctzWGhNHFroQPEU2x2Q9ArOTigLA0ypeCfaPy8gsypNsNPtL5Duxx-e6Ix0p8lgkTkJhusGseazEty7u28Gqf3-Yd7jt7Wcnwx48V66-0rZellKHBttqkQ-4--EdvVN4JAajH1Ta_HVwUFPvZe59xi67dDJriJMiqog350yOG97lbZXkegSsYc69Yx3aOCM9lCSbYYglw-K2FQ8ELhaYGWkzGkEH9GRl";
-const showcaseImage =
-  "https://lh3.googleusercontent.com/aida/AP1WRLtWOOpVEHrJscKGPtiHkPtSTtN6QJvw7YVyJpcQsTbjCIXKag80up1C-AD5F9C8NM6_uk9iHVBob5SJo6aEqlsAB5nfuxH6o6h3cMrXY5r-8tUUSfG6Ahons5TVcJwEzhUCFkiTOTgc42reuMXIAB9c6sHDsQItD0HXX2vgkzhG1x-Act_GVUnrIMrDbcrTdjY6HjmlPeo0PWJ2AKVz_68Yc5j1JRpil3xC7sSl7vPgnZVhljnKYpNl-ZYj";
-const collectionImage =
-  "https://lh3.googleusercontent.com/aida/AP1WRLttPFJBi0qHiWoyCm1QHpi4TdR_nTywcOGv94p6VxAffPwkRWXt3VNDA5c0FizjzTAEVNhgOEQibxBZ0BK3oIZkNtRwljCcLuesbpFIuhp_znXs00k00yAoj9F6a45fQIboicViAlerLb2xEH8DEIcO_z7qyvzJbdEOleeD3MRF6Ricof1zW0vJ0e-YF_mqE0hV4MyD6uLl4SRNaDMIuXr_Bkl1JCKdG2TrccTetrvD5YXCW4YjOddDC_Ma";
+const heroImage = "/images/packaging-hero.png";
+const showcaseImage = "/images/packaging-showcase.png";
+const collectionImage = "/images/packaging-collection.png";
 
 const packagingTypes = [
   {

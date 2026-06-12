@@ -11,7 +11,7 @@ export const siteConfig = {
   title: "Custom Restaurant Packaging | Printed Boxes, Cups & Bags | Vessel",
   description:
     "Premium custom restaurant packaging for cafes, cloud kitchens and food brands. Get printed burger boxes, pizza boxes, coffee cups and carry bags with low MOQs.",
-  ogImage: "https://lh3.googleusercontent.com/aida/AP1WRLtybSRdWK9Huzn9G9oTSCCks0L5ctzWGhNHFroQPEU2x2Q9ArOTigLA0ypeCfaPy8gsypNsNPtL5Duxx-e6Ix0p8lgkTkJhusGseazEty7u28Gqf3-Yd7jt7Wcnwx48V66-0rZellKHBttqkQ-4--EdvVN4JAajH1Ta_HVwUFPvZe59xi67dDJriJMiqog350yOG97lbZXkegSsYc69Yx3aOCM9lCSbYYglw-K2FQ8ELhaYGWkzGkEH9GRl",
+  ogImage: `${siteUrl}/images/packaging-hero.png`,
   keywords: [
     "custom restaurant packaging",
     "restaurant packaging supplier",
